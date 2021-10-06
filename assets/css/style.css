@@ -191,21 +191,16 @@
     color: var(--secondary);
   }
   /* portfolio project images */
-  .run-buddy {
+  .horiseon {
     background-image: url("../images/cwindex_html3.png");
   }
-  .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+  .homework {
+    background-image: url();
   }
-  .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+  .miniProjects {
+    background-image: url();
   }
-  .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
-  }
-  .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
-  }
+
   /* end portfolio project images */
   @media screen and (max-width: 980px) {
     header {
